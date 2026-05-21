@@ -1,16 +1,17 @@
-<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/55cd007e-c714-4eed-832d-d258980e64a8" />
-
-
-## Hi there 👋
-Me llamo Robinson y soy una persona con varios intereses, pero el que es relevante aquí es el de desarrollo de videojuegos.  
-Un placer.
-
+<img width="1700" height="460" alt="Emilia y elenco re zero banner" src="https://github.com/user-attachments/assets/a67a3549-2f3b-4e26-9a29-a1297a925c12" />
 
 <div align="center">
   <picture>
     <img width="200" height="200" alt="cat2" src="https://github.com/user-attachments/assets/e2ea5b85-9165-4b41-968c-82c08ab55b2c" />
   </picture>
 </div>
+
+<div align="center">
+  <h1>Hi there 👋</h1>
+</div>
+
+Me llamo Robinson y soy una persona con varios intereses, pero el que es relevante aquí es el de desarrollo de videojuegos.  
+Un placer.
 
 ## What I do
 
