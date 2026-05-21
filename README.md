@@ -5,26 +5,33 @@
 Me llamo Robinson y soy una persona con varios intereses, pero el que es relevante aquí es el de desarrollo de videojuegos.  
 Un placer.
 
+
 <div align="center">
-  <img width="200" height="200" alt="cat2" src="https://github.com/user-attachments/assets/e2ea5b85-9165-4b41-968c-82c08ab55b2c" />
+  <picture>
+    <img width="200" height="200" alt="cat2" src="https://github.com/user-attachments/assets/e2ea5b85-9165-4b41-968c-82c08ab55b2c" />
+  </picture>
 </div>
 
+## What I do
+
+- 📚 Study Philosophy at UNAL (University National From Colombia)
+- 🌐 Create web pages
+- 🕹️ Create video games
+
 ## Hobbies
-- 🎌 Watch Anime
+
+<picture>
+<img width="200" height="200" alt="rem" src="https://github.com/user-attachments/assets/3bafb0d3-536f-4f96-856e-668504c0b4e1" align="right" />
+</picture>
+
+- ❤️ Watch Anime
 - 🎮 Play video games
 - 🎬 Create videos on YouTube
 - 💪 Train at the gym
-  
-## What I do
-<div style="display: flex; gap: 100px;">
-    <ul>
-      <li>📚 Study Philosophy at UNAL (University National From Colombia)</li>
-      <li>🌐 Create web pages</li>
-      <li>🕹️ Create video games</li>
-    </ul>
-  </div>
-  <img width="200" height="200" alt="rem" src="https://github.com/user-attachments/assets/3bafb0d3-536f-4f96-856e-668504c0b4e1" style="margin-left: auto;"/>
-</div>
+- 🎻 Play the violin
+
+<div style="clear: both;"></div>
+<br>
 
 ## My Skill Set  
   
