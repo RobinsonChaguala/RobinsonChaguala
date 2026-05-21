@@ -6,7 +6,7 @@ Me llamo Robinson y soy una persona con varios intereses, pero el que es relevan
 Un placer.
 
 <div align="center">
-  <img width="200" height="350" alt="cat2" src="https://github.com/user-attachments/assets/e2ea5b85-9165-4b41-968c-82c08ab55b2c" />
+  <img width="200" height="200" alt="cat2" src="https://github.com/user-attachments/assets/e2ea5b85-9165-4b41-968c-82c08ab55b2c" />
 </div>
 
 ## Hobbies
