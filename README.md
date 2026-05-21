@@ -30,6 +30,7 @@ Un placer.
 - 🎬 Create videos on YouTube
 - 💪 Train at the gym
 - 🎻 Play the violin
+- 🍚 Ricing/Arroceo
 
 <div style="clear: both;"></div>
 <br>
