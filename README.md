@@ -10,8 +10,8 @@
   <h1>Hi there 👋</h1>
 </div>
 
-Me llamo Robinson y soy una persona con varios intereses, pero el que es relevante aquí es el de desarrollo de videojuegos.  
-Un placer.
+My name is Robinson, and I have many interests, but the one relevant here is video game development.
+It's a pleasure.
 
 ## What I do
 
